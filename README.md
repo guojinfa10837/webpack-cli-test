@@ -1,11 +1,16 @@
 # webpack-cli-test
 
-//下载远程模块
-npm install
+## 项目介绍
+   webpack 脚手架
 
-//启动本地服务
-npm run start
 
-//启动测试生产打包-----
+## 初始化
+	npm install
 
-npm run build
+## 本地服务
+	npm run start
+
+## 生产打包
+  npm run build 
+
+
