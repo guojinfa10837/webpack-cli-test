@@ -1,7 +1,7 @@
 # webpack-cli-test
 
 ## 项目介绍
-   webpack 脚手架.
+   webpack 脚手架,能快速开发，以及本地服务
 
 
 ## 初始化
