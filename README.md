@@ -11,6 +11,6 @@
 	npm run start
 
 ## 生产打包
-  npm run build 
+ 	npm run build 
 
 
