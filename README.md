@@ -1,7 +1,7 @@
 # webpack-cli-test
 
 ## 项目介绍
-   webpack 脚手架
+   webpack 脚手架.
 
 
 ## 初始化
@@ -12,5 +12,7 @@
 
 ## 生产打包
  	npm run build 
+
+ 	
 
 
